@@ -7,6 +7,7 @@ public class Main {
         JOptionPane.showMessageDialog(null, "Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World Nb 4!");
+        System.out.println("Hello World nb 2!");
 
     }
 }
